@@ -1,0 +1,5 @@
+# Code style cleaning
+*.h filter=cppstyle
+*.hpp filter=cppstyle
+*.c filter=cppstyle
+*.cpp filter=cppstyle

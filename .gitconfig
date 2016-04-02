@@ -1,0 +1,3 @@
+[filter "cppstyle"]
+	smudge = astyle
+	clean = astyle --options=none --style=allman --indent=tab --align-pointer=type --keep-one-line-blocks --keep-one-line-statements --pad-header
